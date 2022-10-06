@@ -237,7 +237,7 @@ top-banner design
 */
 .top-banner {
     width: 100%;
-    background: url('../images/top-banner1.jpg') no-repeat center;
+    background: url('../images/top-banner.jpg') no-repeat center;
     background-size: cover;
     padding: 16.875rem 0 9.375rem;
 }
